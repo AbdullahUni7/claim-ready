@@ -1,0 +1,1 @@
+# Claim Ready Landing Page\n\nBuilt with Next.js and Tailwind CSS based on DESIGN.md and content.txt.
